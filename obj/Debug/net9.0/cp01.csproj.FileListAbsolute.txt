@@ -1,0 +1,29 @@
+C:\Users\vitor\Documents\aulas_C#\CP01\obj\Debug\net9.0\cp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Documents\aulas_C#\CP01\obj\Debug\net9.0\cp01.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\aulas_C#\CP01\obj\Debug\net9.0\cp01.AssemblyInfo.cs
+C:\Users\vitor\Documents\aulas_C#\CP01\obj\Debug\net9.0\cp01.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\aulas_C#\CP01\bin\Debug\net9.0\cp01.exe
+C:\Users\vitor\Documents\aulas_C#\CP01\bin\Debug\net9.0\cp01.deps.json
+C:\Users\vitor\Documents\aulas_C#\CP01\bin\Debug\net9.0\cp01.runtimeconfig.json
+C:\Users\vitor\Documents\aulas_C#\CP01\bin\Debug\net9.0\cp01.dll
+C:\Users\vitor\Documents\aulas_C#\CP01\bin\Debug\net9.0\cp01.pdb
+C:\Users\vitor\Documents\aulas_C#\CP01\obj\Debug\net9.0\cp01.dll
+C:\Users\vitor\Documents\aulas_C#\CP01\obj\Debug\net9.0\refint\cp01.dll
+C:\Users\vitor\Documents\aulas_C#\CP01\obj\Debug\net9.0\cp01.pdb
+C:\Users\vitor\Documents\aulas_C#\CP01\obj\Debug\net9.0\cp01.genruntimeconfig.cache
+C:\Users\vitor\Documents\aulas_C#\CP01\obj\Debug\net9.0\ref\cp01.dll
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\obj\Debug\net9.0\cp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\obj\Debug\net9.0\cp01.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\obj\Debug\net9.0\cp01.AssemblyInfo.cs
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\obj\Debug\net9.0\cp01.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\obj\Debug\net9.0\cp01.sourcelink.json
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\obj\Debug\net9.0\cp01.dll
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\obj\Debug\net9.0\refint\cp01.dll
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\obj\Debug\net9.0\cp01.pdb
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\bin\Debug\net9.0\cp01.exe
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\bin\Debug\net9.0\cp01.deps.json
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\bin\Debug\net9.0\cp01.runtimeconfig.json
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\bin\Debug\net9.0\cp01.dll
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\bin\Debug\net9.0\cp01.pdb
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\obj\Debug\net9.0\cp01.genruntimeconfig.cache
+C:\Users\vitor\Documents\.NET fiap\aulas_C#\CP01\obj\Debug\net9.0\ref\cp01.dll
